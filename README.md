@@ -1,0 +1,3 @@
+<p align="left"># 💻 Tarjeta de Presentación Personal<br><br>Este proyecto es una tarjeta de presentación digital realizada con **HTML** y **CSS**, orientada a mostrar información básica sobre mí como desarrollador en formación.<br><br>## 🧑 Sobre mí<br><br>🎓 Soy estudiante de Ingeniería en Sistemas, apasionado por la tecnología y el desarrollo web. Me gusta aprender cosas nuevas, jugar videojuegos, leer y hacer deportes. Actualmente estoy enfocado en mejorar mis habilidades en frontend y backend.<br><br>## 🛠️ Tecnologías utilizadas<br><br>- HTML5<br>- CSS3<br>- Google Fonts<br>- Efectos con `:hover`<br>- Responsive design básico (opcional a extender)</p>
+
+###
